@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "A simple platformer", "A simple platformer\A simple platformer.pyproj", "{076683B3-E110-4953-AAFD-D94D55D57E2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{076683B3-E110-4953-AAFD-D94D55D57E2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{076683B3-E110-4953-AAFD-D94D55D57E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39CE3132-7CFA-4A92-86D6-E8BF17635FFF}
+	EndGlobalSection
+EndGlobal
